@@ -69,7 +69,7 @@ ollama serve
 pip install streamlit pandas requests
 ```
 
-### 3. Rodar o Edu
+### 3. Rodar o Optimus
 
 ```bash
 streamlit run src/app.py
@@ -78,10 +78,10 @@ streamlit run src/app.py
 ## 🎯 Exemplo de Uso
 
 **Pergunta:** "O que é CDI?"  
-**Edu:** "CDI é uma taxa de referência usada pelos bancos. Quando um investimento rende '100% do CDI', significa que ele acompanha essa taxa. Hoje o CDI está próximo da Selic. Quer que eu explique a diferença entre os dois?"
+**Optimus:** "CDI é uma taxa de referência usada pelos bancos. Quando um investimento rende '100% do CDI', significa que ele acompanha essa taxa. Hoje o CDI está próximo da Selic. Quer que eu explique a diferença entre os dois?"
 
 **Pergunta:** "Onde estou gastando mais?"  
-**Edu:** "Olhando suas transações de outubro, sua maior despesa é moradia (R$ 1.380), seguida de alimentação (R$ 570). Juntas, representam quase 80% dos seus gastos. Isso é bem comum! Quer que eu explique algumas estratégias de organização?"
+**Optimus:** "Olhando suas transações de outubro, sua maior despesa é moradia (R$ 1.380), seguida de alimentação (R$ 570). Juntas, representam quase 80% dos seus gastos. Isso é bem comum! Quer que eu explique algumas estratégias de organização?"
 
 ## 📊 Métricas de Avaliação
 
